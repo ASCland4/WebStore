@@ -1,0 +1,27 @@
+
+
+
+
+
+CLIENTES;
+-----------
+id_clientes 
+email
+senha
+nome_completo
+morada
+cidade
+telefone
+purl
+activo
+created_at
+update_at
+deleted_at
+
+    [text_email] => teste@teste.pt
+    [text_senha_1] => 123456
+    [text_senha_2] => 123456
+    [text_nome_completo] => Aniel lenon
+    [text_morada] => morada do cliente
+    [text_cidade] => cidade do cliente
+    [text_telefone] => 
